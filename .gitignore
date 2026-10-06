@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.onnx
+*.task
+data/enrolled/**/*.jpg
+data/raw/**/*.jpg
+data/embeddings.json
+data/verify_log.jsonl
+data/lockout.json
+.DS_Store
+Thumbs.db
